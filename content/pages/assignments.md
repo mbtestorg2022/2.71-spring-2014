@@ -16,11 +16,72 @@ Each problem is worth 3 points. You earn:
 
 We will accept late homeworks but you lose 20% of the grade per day after the due date. The 1st homework is exempt from this policy (but please make sure to turn it in by the due date of the 2nd homework). Collaboration is allowed in homeworks, but you should write your own solutions and make sure you understand them before handing them in.
 
-| PROBLEM SETS # | SOLUTIONS |
-| --- | --- |
-| [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_1) | [Solutions to Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_1_sols) |
-| [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_2) | [Solutions to Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_2_sols) |
-| [Problem Set 3 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit2_71s14_hw_3) | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Solutions to Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_3_sols) |
-| [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_4) | [Solutions to Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_4_sols) |
-| [Problem Set 5 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_71s14_hw_5) | <No Solutions> |
-| [Problem Set 6 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_71s14_hw_6) | <No Solutions>
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SETS #
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_1_sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_2_sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 3 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit2_71s14_hw_3)
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Solutions to Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_3_sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_4)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_4_sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 5 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_71s14_hw_5)
+{{< tdclose >}}
+{{< tdopen >}}
+\<No Solutions>
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 6 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit2_71s14_hw_6)
+{{< tdclose >}}
+{{< tdopen >}}
+\<No Solutions>
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
