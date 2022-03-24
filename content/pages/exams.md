@@ -46,7 +46,7 @@ SOLUTIONS
 [Quiz 1 (PDF)]({{< baseurl >}}/resources/mit2_71s14_s08_quiz1)
 {{< tdclose >}}
 {{< tdopen >}}
-\<No ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Solutions>
+\<No Solutions>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +126,7 @@ SOLUTIONS
 
 [Solutions for Quiz 2 (PDF)]({{< baseurl >}}/resources/mit2_71s14_s14_quiz2_sols)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Solutions for Practice Problems (PDF - 2.1MB)]({{< baseurl >}}/resources/mit2_71s14_s14_pracpr_sol)
+[Solutions for Practice Problems (PDF - 2.1MB)]({{< baseurl >}}/resources/mit2_71s14_s14_pracpr_sol)
 
 
 {{< tdclose >}}

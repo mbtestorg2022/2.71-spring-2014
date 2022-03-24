@@ -52,7 +52,7 @@ SOLUTIONS
 [Problem Set 3 (PDF - 1.3MB)]({{< baseurl >}}/resources/mit2_71s14_hw_3)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Solutions to Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_3_sols)
+[Solutions to Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit2_71s14_hw_3_sols)
 {{< tdclose >}}
 
 {{< trclose >}}

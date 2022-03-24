@@ -9,7 +9,7 @@ The resources provided below are useful references for those interested in learn
 Supplemental Materials
 ----------------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hamiltonian Practice Problem (PDF)]({{< baseurl >}}/resources/mit2_71s14_hamiltonian)
+[Hamiltonian Practice Problem (PDF)]({{< baseurl >}}/resources/mit2_71s14_hamiltonian)
 
 [Circular Convolution (PDF)]({{< baseurl >}}/resources/mit2_71s14_circ)
 
