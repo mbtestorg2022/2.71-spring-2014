@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding optics 
   to exam 4 final, 2013.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-71-optics-spring-2014/1ed98976f1107d095803607aaa2e6883_MIT2_71S14_s13_FinlPr4_sol.pdf
 file_type: application/pdf
+parent_uid: e9623177-98af-3a97-6c3b-93b9d7ce4183
 resourcetype: Document
 title: Optics, Solutions to Exam 4 Final, 2013
 uid: 1ed98976-f110-7d09-5803-607aaa2e6883

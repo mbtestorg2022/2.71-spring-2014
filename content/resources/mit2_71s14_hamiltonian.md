@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding hamilto
   practice problem.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-71-optics-spring-2014/f3e7a32e12d8fd0fb631114d436cd825_MIT2_71S14_hamiltonian.pdf
 file_type: application/pdf
+parent_uid: 154e7e04-eecd-654c-7e8e-a99f944c1c33
 resourcetype: Document
 title: Hamiltonian Practice Problem
 uid: f3e7a32e-12d8-fd0f-b631-114d436cd825

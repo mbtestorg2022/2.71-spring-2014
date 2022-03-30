@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding lab dem
   2
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-71-optics-spring-2014/ca4c1354b3bd074a5c4362d2bdd5cc95_MIT2_71S14_Demo_2.pdf
 file_type: application/pdf
+parent_uid: 154e7e04-eecd-654c-7e8e-a99f944c1c33
 resourcetype: Document
 title: Optics, Lab Demo 2
 uid: ca4c1354-b3bd-074a-5c43-62d2bdd5cc95

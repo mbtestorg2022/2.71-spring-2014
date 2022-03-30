@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding optics 
   to exam practice problem solutions, 2013.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-71-optics-spring-2014/3fedd50b5db39647e97192c94c39ab44_MIT2_71S14_s13_PracPr_Sol.pdf
 file_type: application/pdf
+parent_uid: e9623177-98af-3a97-6c3b-93b9d7ce4183
 resourcetype: Document
 title: Optics, Solutions to Exam Practice Problem Solutions, 2013
 uid: 3fedd50b-5db3-9647-e971-92c94c39ab44
